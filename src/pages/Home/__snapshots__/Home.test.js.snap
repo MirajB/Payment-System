@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders home page 1`] = `
+<div>
+  <div>
+    <form
+      action="#"
+    >
+      <label
+        for="firstName"
+      >
+        First Name
+      </label>
+      <input
+        class="text-input"
+        name="firstName"
+        placeholder="Enter first name"
+        type="text"
+        value=""
+      />
+      <label
+        for="lastName"
+      >
+        Last Name
+      </label>
+      <input
+        class="text-input"
+        name="lastName"
+        placeholder="Enter last name"
+        type="text"
+        value=""
+      />
+      <label
+        for="email"
+      >
+        Email Address
+      </label>
+      <input
+        class="text-input"
+        name="email"
+        placeholder="Enter email id"
+        type="email"
+        value=""
+      />
+      <label
+        for="mobile"
+      >
+        Mobile No
+      </label>
+      <input
+        class="text-input"
+        name="mobile"
+        placeholder="Enter mobile No"
+        type="number"
+        value=""
+      />
+      <label
+        for="emi"
+      >
+        EMI
+      </label>
+      <input
+        class="text-input"
+        name="emi"
+        placeholder="Enter EMI to be paid"
+        type="number"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;

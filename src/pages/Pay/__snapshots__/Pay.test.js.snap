@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Can cancel the payment 1`] = `
+<div>
+  <h2>
+    Select Mode of Payment
+  </h2>
+  <div>
+    <button>
+      Credit Card
+    </button>
+    <button>
+      Debit Card
+    </button>
+    <button>
+      Net Banking
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders credit card screen when clicked 1`] = `
+<div>
+  <h2>
+    Select Mode of Payment
+  </h2>
+  <div>
+    <form
+      action="#"
+    >
+      <label
+        for="name"
+      >
+        Name
+      </label>
+      <input
+        class="text-input"
+        name="name"
+        readonly=""
+        type="text"
+        value="undefined undefined"
+      />
+      <label
+        for="your_emi"
+      >
+        Amount to be paid
+      </label>
+      <input
+        class="text-input"
+        name="your_emi"
+        readonly=""
+        type="text"
+        value="undefined"
+      />
+      <label
+        for="bankName"
+      >
+        Bank Name
+      </label>
+      <input
+        class="text-input"
+        name="bankName"
+        placeholder="Enter bank name"
+        type="text"
+        value=""
+      />
+      <div
+        class="css-1iwcm1"
+      >
+        <button
+          type="submit"
+        >
+          Pay
+        </button>
+        <button>
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders debit card screen when clicked 1`] = `
+<div>
+  <h2>
+    Select Mode of Payment
+  </h2>
+  <div>
+    <form
+      action="#"
+    >
+      <label
+        for="name"
+      >
+        Name
+      </label>
+      <input
+        class="text-input"
+        name="name"
+        readonly=""
+        type="text"
+        value="undefined undefined"
+      />
+      <label
+        for="your_emi"
+      >
+        Amount to be paid
+      </label>
+      <input
+        class="text-input"
+        name="your_emi"
+        readonly=""
+        type="text"
+        value="undefined"
+      />
+      <label
+        for="bankName"
+      >
+        Bank Name
+      </label>
+      <input
+        class="text-input"
+        name="bankName"
+        placeholder="Enter bank name"
+        type="text"
+        value=""
+      />
+      <div
+        class="css-1iwcm1"
+      >
+        <button
+          type="submit"
+        >
+          Pay
+        </button>
+        <button>
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders net banking screen when clicked 1`] = `
+<div>
+  <h2>
+    Select Mode of Payment
+  </h2>
+  <div>
+    <form
+      action="#"
+    >
+      <label
+        for="name"
+      >
+        Name
+      </label>
+      <input
+        class="text-input"
+        name="name"
+        readonly=""
+        type="text"
+        value="undefined undefined"
+      />
+      <label
+        for="your_emi"
+      >
+        Amount to be paid
+      </label>
+      <input
+        class="text-input"
+        name="your_emi"
+        readonly=""
+        type="text"
+        value="undefined"
+      />
+      <label
+        for="bankName"
+      >
+        Bank Name
+      </label>
+      <input
+        class="text-input"
+        name="bankName"
+        placeholder="Enter bank name"
+        type="text"
+        value=""
+      />
+      <div
+        class="css-1iwcm1"
+      >
+        <button
+          type="submit"
+        >
+          Pay
+        </button>
+        <button>
+          Cancel
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders payment page 1`] = `
+<div>
+  <h2>
+    Select Mode of Payment
+  </h2>
+  <div>
+    <button>
+      Credit Card
+    </button>
+    <button>
+      Debit Card
+    </button>
+    <button>
+      Net Banking
+    </button>
+  </div>
+</div>
+`;

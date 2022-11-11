@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders pay emi form 1`] = `
+<div>
+  <form
+    action="#"
+  >
+    <label
+      for="loanId"
+    >
+      Loan ID
+    </label>
+    <input
+      class="text-input"
+      name="loanId"
+      placeholder="Enter Loan ID"
+      type="text"
+      value=""
+    />
+    <button
+      type="submit"
+    >
+      Get Details
+    </button>
+  </form>
+</div>
+`;
